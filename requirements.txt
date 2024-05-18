@@ -1,0 +1,9 @@
+This are the required version to run this project.
+
+Flutter 3.19.2 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 7482962148 (3 months ago) • 2024-02-27 16:51:22 -0500
+Engine • revision 04817c99c9
+Tools • Dart 3.3.0 • DevTools 2.31.1
+
+Xcode 15.3
+Build version 15E204a
